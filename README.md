@@ -14,6 +14,7 @@ This script is used to calculate the runner up score (the second highest number)
 
 ## Usage
 Method 1: Give a list of integers
+
 Method 2: Give no input and the script will ask for at least two integers to be entered
 
 ## Changelog
